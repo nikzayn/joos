@@ -3,13 +3,13 @@
   "version": "2.5.4",
   "description": "Augmented Analytics Dashboard",
   "author": "Nikhil Vaidyar",
-  "homepage": "https://nikzayn.github.io/joosworks/",
+  "homepage": "https://nikzayn.github.io/Joosworks2-/",
   "copyright": "Copyright 2019 Yoghurt",
   "license": "MIT",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git@github.com:nikzayn/joosworks.git"
+    "url": "git@github.com:nikzayn/Joosworks2-.git"
   },
   "dependencies": {
     "@coreui/coreui": "^2.1.5",
